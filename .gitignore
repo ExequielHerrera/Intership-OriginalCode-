@@ -234,3 +234,20 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+
+#CMake ignores
+
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeScripts
+Testing
+MakeFile
+cmake_install.cmake
+install manifest.txt
+compile_comands.json
+CTestTestfile.cmake
+_deps
+
+
+out/build
