@@ -236,7 +236,7 @@ _Pvt_Extensions
 .fake/
 
 
-#CMake ignores
+#CMake ignores to make.
 
 CMakeLists.txt.user
 CMakeCache.txt
